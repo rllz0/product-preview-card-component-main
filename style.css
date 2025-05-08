@@ -58,6 +58,7 @@ a {
     color: hsl(228, 12%, 48%);
     margin-bottom: 20px;
     line-height: 100%;
+    letter-spacing: 5px;
 }
 
 .product .product-info h1 {
